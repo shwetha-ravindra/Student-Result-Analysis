@@ -36,7 +36,7 @@ reading test score(0-100)
 ### WritingScore: 
 writing test score(0-100)
 
-## Results and Discussion:
+## RESULTS AND DISCUSSION:
 📈 Delving into a dataset featuring student test scores alongside personal and socio-economic factors, here are some intriguing findings:
 
 1️⃣ 𝐆𝐞𝐧𝐝𝐞𝐫 𝐁𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧: There's a notable majority of female students in our sample.
